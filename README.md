@@ -18,7 +18,7 @@
 - **Languages:** Python · JavaScript · TypeScript
 - **Automation:** Node.js · Playwright · MCP (Model Context Protocol) · n8n · Make
 - **Web:** HTML · CSS · JavaScript
-- **Tools:** Git · GitHub · Claude Desktop
+- **Tools:** Git · GitHub · Claude Code 
 
 ## 🤝 Open-source contributions
 
