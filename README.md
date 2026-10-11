@@ -1,6 +1,6 @@
 # Hi, I'm Harsh Kumar 👋
 
-**AI Automation & Backend Developer** — I build tools that let AI agents do real work: browser automation, MCP servers, chat bots and workflow pipelines.
+**AI Automation & Web Developer** — I build tools that let AI agents do real work: browser automation, MCP servers, chat bots and workflow pipelines.
 
 ---
 
@@ -9,15 +9,15 @@
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [**browser-automation-mcp**](https://github.com/harxh07/browser-automation-mcp) | Local browser-automation MCP server for Claude Desktop with 147 tools: AI goal planner, self-healing codegen, semantic form-filler, website legitimacy checker, swarm mode | Python, Playwright, Chrome DevTools Protocol, MCP |
-| [**studybuddy-zero-to-chat**](https://github.com/harxh07/studybuddy-zero-to-chat) | Real-time study rooms, 1-to-1 DMs and voice/video calls, built for the CometChat #ZeroToChat challenge | React, Vite, TypeScript, CometChat |
+| [**studybuddy-zero-to-chat**](https://github.com/harxh07/studybuddy-zero-to-chat) | Real-time study rooms, 1-to-1 DMs and voice/video calls, built for the CometChat #ZeroToChat challenge | TypeScript, CometChat |
 | [**future-climate-simulator**](https://github.com/harxh07/future-climate-simulator) | "Earth 2076": an interactive climate trajectory simulator with a WebGL globe and an SSP scenario engine, built for Hack Club's Future program | JavaScript, WebGL |
 | [**discord-relay-bot**](https://github.com/harxh07/discord-relay-bot) | Relays Discord messages to an n8n webhook so workflows can power AI auto-replies | Node.js, discord.js, n8n |
 
 ## 🛠️ Tech stack
 
 - **Languages:** Python · JavaScript · TypeScript
-- **Backend & automation:** Node.js · Playwright · MCP (Model Context Protocol) · n8n · Make
-- **Frontend:** React · Vite · HTML/CSS
+- **Automation:** Node.js · Playwright · MCP (Model Context Protocol) · n8n · Make
+- **Web:** HTML · CSS · JavaScript
 - **Tools:** Git · GitHub · Claude Desktop
 
 ## 🤝 Open-source contributions
