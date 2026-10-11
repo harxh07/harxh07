@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, I'm Harsh Kumar 👋
 
 **AI Automation & Backend Developer** — I build tools that let AI agents do real work: browser automation, MCP servers, chat bots and workflow pipelines.
 
